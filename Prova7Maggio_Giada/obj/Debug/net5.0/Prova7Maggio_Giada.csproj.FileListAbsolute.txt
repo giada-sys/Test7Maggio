@@ -1,0 +1,16 @@
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Prova7Maggio_Giada\Prova7Maggio_Giada\bin\Debug\net5.0\Prova7Maggio_Giada.exe
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Prova7Maggio_Giada\Prova7Maggio_Giada\bin\Debug\net5.0\Prova7Maggio_Giada.deps.json
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Prova7Maggio_Giada\Prova7Maggio_Giada\bin\Debug\net5.0\Prova7Maggio_Giada.runtimeconfig.json
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Prova7Maggio_Giada\Prova7Maggio_Giada\bin\Debug\net5.0\Prova7Maggio_Giada.runtimeconfig.dev.json
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Prova7Maggio_Giada\Prova7Maggio_Giada\bin\Debug\net5.0\Prova7Maggio_Giada.dll
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Prova7Maggio_Giada\Prova7Maggio_Giada\bin\Debug\net5.0\ref\Prova7Maggio_Giada.dll
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Prova7Maggio_Giada\Prova7Maggio_Giada\bin\Debug\net5.0\Prova7Maggio_Giada.pdb
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Prova7Maggio_Giada\Prova7Maggio_Giada\obj\Debug\net5.0\Prova7Maggio_Giada.csprojAssemblyReference.cache
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Prova7Maggio_Giada\Prova7Maggio_Giada\obj\Debug\net5.0\Prova7Maggio_Giada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Prova7Maggio_Giada\Prova7Maggio_Giada\obj\Debug\net5.0\Prova7Maggio_Giada.AssemblyInfoInputs.cache
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Prova7Maggio_Giada\Prova7Maggio_Giada\obj\Debug\net5.0\Prova7Maggio_Giada.AssemblyInfo.cs
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Prova7Maggio_Giada\Prova7Maggio_Giada\obj\Debug\net5.0\Prova7Maggio_Giada.csproj.CoreCompileInputs.cache
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Prova7Maggio_Giada\Prova7Maggio_Giada\obj\Debug\net5.0\Prova7Maggio_Giada.dll
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Prova7Maggio_Giada\Prova7Maggio_Giada\obj\Debug\net5.0\ref\Prova7Maggio_Giada.dll
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Prova7Maggio_Giada\Prova7Maggio_Giada\obj\Debug\net5.0\Prova7Maggio_Giada.pdb
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Prova7Maggio_Giada\Prova7Maggio_Giada\obj\Debug\net5.0\Prova7Maggio_Giada.genruntimeconfig.cache

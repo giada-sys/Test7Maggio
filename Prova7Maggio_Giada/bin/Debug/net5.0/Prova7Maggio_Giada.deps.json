@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Prova7Maggio_Giada/1.0.0": {
+        "runtime": {
+          "Prova7Maggio_Giada.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prova7Maggio_Giada/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,4 @@
+07-05-2021;Viaggio;Volo per NewYork;3000
+12-03-2021;Alloggio;Hotel;1000
+06-12-2020;Vitto;Ristorante;200
+08-11-2020;Altro;Scarpe;80
