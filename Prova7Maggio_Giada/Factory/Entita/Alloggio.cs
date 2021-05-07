@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Prova7Maggio_Giada.Factory.Entita
 {
-    class Alloggio : ICategoria
+    public class Alloggio : ICategoria
     {
         public decimal Sconto(decimal importo)
         {

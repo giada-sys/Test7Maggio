@@ -1,0 +1,5 @@
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Prova7Maggio_Giada\Prova7Maggio_Giada.Test\obj\Debug\net5.0\Prova7Maggio_Giada.Test.csprojAssemblyReference.cache
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Prova7Maggio_Giada\Prova7Maggio_Giada.Test\obj\Debug\net5.0\Prova7Maggio_Giada.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Prova7Maggio_Giada\Prova7Maggio_Giada.Test\obj\Debug\net5.0\Prova7Maggio_Giada.Test.AssemblyInfoInputs.cache
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Prova7Maggio_Giada\Prova7Maggio_Giada.Test\obj\Debug\net5.0\Prova7Maggio_Giada.Test.AssemblyInfo.cs
+C:\Users\giada.lomasti\source\repos\ACCADEMY\PrimaSettimana\Prova7Maggio_Giada\Prova7Maggio_Giada.Test\obj\Debug\net5.0\Prova7Maggio_Giada.Test.csproj.CoreCompileInputs.cache
